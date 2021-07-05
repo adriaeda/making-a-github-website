@@ -1,5 +1,7 @@
 # Welcome to my site 
 
+[Page 2](page2.html)
+
 ## Section 1 is about the steps on how to make a website
 
 first, go to **_github.com_** then click on the "__+__" sign on the left corner
